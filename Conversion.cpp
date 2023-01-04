@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+/* A simple program to demonstrate explicit and implcit casting */
+
 int main(int argc, char** argv) {
     double x = 45.675;
     int y = static_cast<int>(x);
